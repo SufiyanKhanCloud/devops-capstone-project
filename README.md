@@ -1,5 +1,7 @@
 # devops-capstone-project
 
+![Build Status](https://github.com/SufiyanKhanCloud/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)
+
 A RESTful Customer Accounts microservice built with Python Flask using Test-Driven Development (TDD), Docker, Kubernetes, and CI/CD pipelines for an e-commerce platform.
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
